@@ -69,6 +69,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-invite-friends](screens/invite-friends)
 - [screen-create-post-2](screens/create-post-1)
 - [screen-appointment-create](screens/create-appointment)
+- [screen-chat-listing](screens/chat-listing)
 
 # Getting started: Frontend
 
