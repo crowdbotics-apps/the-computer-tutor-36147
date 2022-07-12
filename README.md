@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-welcome](screens/welcome)
 - [react-native-splash](modules/splash)
 - [screen-signup](screens/signup)
+- [screen-recording-memo](screens/record-memo)
 
 # Getting started: Frontend
 
