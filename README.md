@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [screen-invite-friends](screens/invite-friends)
 - [screen-create-post-2](screens/create-post-1)
+- [screen-appointment-create](screens/create-appointment)
 
 # Getting started: Frontend
 

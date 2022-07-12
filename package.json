@@ -28,6 +28,7 @@
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
     "@screens/record-memo": "file:./screens/record-memo/",
     "@screens/signup": "file:./screens/signup/",
+    "@screens/wallet": "file:./screens/create-appointment/",
     "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
     "react": "17.0.1",
