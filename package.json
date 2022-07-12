@@ -21,6 +21,7 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
+    "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/chat-listing": "file:./screens/chat-listing/",
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
