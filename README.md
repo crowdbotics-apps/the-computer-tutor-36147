@@ -71,6 +71,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-create](screens/create-appointment)
 - [screen-chat-listing](screens/chat-listing)
 - [react-native-chat](modules/chat)
+- [django-articles](backend/modules)
 
 # Getting started: Frontend
 
