@@ -74,6 +74,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-articles](backend/modules)
 - [react-native-articles](modules/articles)
 - [screen-appointment-calendar-view](screens/appointment-calendar)
+- [screen-appointment-list-view](screens/appointment-list)
 
 # Getting started: Frontend
 
