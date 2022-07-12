@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-notifications-list](screens/notifications)
 - [react-native-onboarding](modules/onboarding)
 - [screen-notifications-preference](screens/notifications-preference)
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
