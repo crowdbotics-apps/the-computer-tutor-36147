@@ -1214,7 +1214,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/qr-code-scanner@file:./screens/qr-code-scanner/":
+"@screens/profile@file:./screens/profile/":
+  version "1.0.0"
+
+"@screens/qr-code-scanner@file:./screens/qr-code-scanner":
   version "1.0.0"
 
 "@screens/rate-the-app@file:./screens/rate-the-app":
