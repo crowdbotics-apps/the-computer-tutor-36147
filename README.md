@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-qr-code-scanner](screens/qr-code-scanner)
 - [screen-profile](screens/profile)
 - [screen-notifications-list](screens/notifications)
+- [react-native-onboarding](modules/onboarding)
 
 # Getting started: Frontend
 
